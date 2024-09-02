@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
- I'm a full-stack developer passionate about problem-solving and building digital solutions. I have experience in HTML, CSS, JavaScript, PHP, Laravel, React.js, and MySQL. I hold a Master’s degree in Computer Science and am currently pursuing a second Master’s in Information Systems and Data Intelligence. I'm always eager to learn new technologies and apply them to real-world challenges.
+I'm a full-stack developer passionate about problem-solving and building digital solutions. With experience in HTML, CSS, JavaScript, PHP, Laravel, React.js, MySQL, and Java, I have a diverse skill set that allows me to tackle various challenges in the tech world. I hold a Master’s degree in Computer Science and am currently pursuing a second Master’s in Information Systems and Data Intelligence. I am always eager to learn new technologies, explore cutting-edge topics, and apply them to real-world challenges.
 
 
 ## 🌐 Socials:
