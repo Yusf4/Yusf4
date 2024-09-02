@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Highly motivated Full Stack Developer with a bachelor and master degree from <br>Lebanese University, dedicated to continuous improvement<br> in backend development and problem-solving skills. Proficient<br> in both front-end and back-end technologies, with a strong <br>desire to enhance expertise in full stack development. <br>Eager to contribute to dynamic teams and projects, while <br>actively seeking opportunities for professional growth and<br> skill refinement.
+
+ I'm a full-stack developer passionate about problem-solving and building digital solutions. I have experience in HTML, CSS, JavaScript, PHP, Laravel, React.js, and MySQL. I hold a Master’s degree in Computer Science and am currently pursuing a second Master’s in Information Systems and Data Intelligence. I'm always eager to learn new technologies and apply them to real-world challenges.
 
 
 ## 🌐 Socials:
